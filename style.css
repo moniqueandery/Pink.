@@ -74,7 +74,6 @@ section input {
     color: #fffdfc; /* Cor do texto */
     font-size: 1.2rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
-    margin-top: 5rem; /* Define margem superior*/
 }
 
 /* Estiliza os botões dentro das seções */
