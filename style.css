@@ -13,8 +13,8 @@ body {
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
     height: 100vh; /* Preenche a altura total da viewport */
-    margin: 50px; /* Define a margem padrão */
-    padding: none; /* Define padding padrão*/
+    margin: none; /* Remove a margem padrão */
+    padding: none; /* Remove padding padrão*/
 }
 
 /* Estiliza os títulos h1 */
@@ -23,7 +23,6 @@ h1 {
     color: #ff1686; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.1rem; /* Espaçamento entre letras */
-    margin-top: 5rem;
 }
 
 /* Estliza os títulos h3 */
@@ -32,9 +31,6 @@ h3 {
     color: #000000; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.05rem; /* Espaçamento entre as letras */
-    margin-left: 700px; /* Define margem esquerda */
-    margin-right: 700px; /* Define margem direita */
-    margin-top: 6rem;
 }
 
 /* Estiliza os links a */
