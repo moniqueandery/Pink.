@@ -1,4 +1,4 @@
-## Pink. - Seu Guia para a Independência – Imersão Dev com Google Gemini**
+## Pink. - Seu Guia para a Independência – Imersão Dev com Google Gemini
 Aplicação Vercel: https://pink-gamma.vercel.app/
 
 ### **O que é a Pink.?**
